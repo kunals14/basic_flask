@@ -24,7 +24,7 @@ def webhook():
 @app.route('/')
 # ‘/’ URL is bound with hello_world() function.
 def hello_world():
-    return 'Hello Friends'
+    return 'Hello World and Friends'
  
 # main driver function
 if __name__ == '__main__':
